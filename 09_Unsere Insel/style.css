@@ -1,0 +1,30 @@
+body{
+  margin: 0;
+  background-color: rgb(255, 206, 150);
+  font-family: calibri, sans-serif;
+  }
+  
+h1 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    margin: 0;
+}
+
+p{
+	line-height: 1.4em;
+	width: 75%;
+	clear: left;
+}
+
+.main {
+	width: 70%;
+	margin: auto;
+	background-color: rgb(245, 245, 245);
+	padding: 3%;
+}
+.text-image {
+	width: 30%;
+	float: left;
+	margin-right: 3%;
+	margin-bottom: 3%;
+}

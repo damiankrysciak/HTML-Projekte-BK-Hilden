@@ -1,0 +1,117 @@
+body {
+    margin: 0;
+    font-family: Gisha;
+}
+header {
+    width: 100%;
+}
+header img {
+    width: 100%;
+    margin: 0;
+}
+h1 {
+    font-family: Script MT;
+    margin: 0;
+    font-size: 220%;
+    color: rgb(225, 81, 131);
+}
+p {
+    line-height: 24px;
+}
+img {
+    width: 80%;
+}
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+nav li {
+    display: inline-block;
+    padding: 2%3%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(60, 60, 60);
+}
+nav li:hover {
+    border-bottom-color: rgb(225, 81, 131);
+}
+nav a:active {
+    color: rgb(225, 81, 131);
+}
+.container {
+    width: 80%;
+    margin-left: 10%;
+    color: rgb(60, 60, 60);
+}
+.kleine_box_links {
+    width: 50%;
+    float: left;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.kleine_box_rechts {
+    width: 50%;
+    float: right;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.kleine_box_rechts img {
+    margin-top: 45pt;
+    padding-left: 5%;
+}
+#grauer_hintergrund {
+    background-color: rgb(245, 245, 245);
+}
+.clear_float {
+    clear: both;
+}
+.button {
+    font-family: Script MT;
+    background-color: rgb(225, 81, 131);
+    text-decoration: none;
+    color: white;
+    padding: 1%2%;
+    border-radius: 20px;
+    border: solid;
+    border-color: rgb(225, 81, 131);
+    font-size: 1.2em;
+}
+.button:hover {
+    background-color: rgb(255, 138, 174);
+    border-color: rgb(255, 138, 174);
+}
+.button:active {
+    color: rgb(60, 60, 60);
+}
+footer {
+    background-color:rgb(245, 245, 245);
+}
+.footer_box_gross {
+    width: 80%;
+    margin-left: 10%;
+}
+.footer_box_klein {
+    float: left;
+    width: 25%;
+}
+.sonderh4 {
+    color: rgb(225, 81, 131);
+}
+.footer_box_inhalt {
+    color: rgb(60, 60, 60);
+}
+.footer_box_inhalt a {
+    color: rgb(60, 60, 60);
+    text-decoration: none;
+}
+.footer_box_inhalt a:hover {
+    text-decoration: underline;
+    text-decoration-color: rgb(225, 81, 131) 
+}
+.footer_box_inhalt a:active {
+    color: rgb(225, 81, 131) 
+}
